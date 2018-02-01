@@ -1,0 +1,11 @@
+Software Needed:
+
+- pandas
+- matplotlib
+- numpy
+- scikit learn
+- prophet - pip install fbprophet
+
+Dataset:
+
+https://www.kaggle.com/c/shelter-animal-outcomes/data
